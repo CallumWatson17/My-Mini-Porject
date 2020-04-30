@@ -22,7 +22,6 @@ import {
 } from "./styled";
 
 const generateContent = (type, pageContent) => {
-  console.log(type);
   if (type === "players") {
     return pageContent.map((content) => (
       <PlayerContainer>
