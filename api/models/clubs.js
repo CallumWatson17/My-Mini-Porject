@@ -46,7 +46,7 @@ const clubs = [
         info: 'Madrid was founded in...',
     },
     {
-        name: 'Liverpol',
+        name: 'Liverpool',
         manager: 'Klopp',
         players: [
             'Sadio Mane',
